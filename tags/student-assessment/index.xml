@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Assessment | Yue Di</title>
+    <link>https://selinadi.github.io/tags/student-assessment/</link>
+      <atom:link href="https://selinadi.github.io/tags/student-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Assessment</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://selinadi.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Student Assessment</title>
+      <link>https://selinadi.github.io/tags/student-assessment/</link>
+    </image>
+    
+    <item>
+      <title>Student Assessment Comparative Study</title>
+      <link>https://selinadi.github.io/project/comparative/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://selinadi.github.io/project/comparative/</guid>
+      <description>&lt;h2 id=&#34;student-research-project&#34;&gt;Student Research Project&lt;/h2&gt;
+&lt;p&gt;• Beijing Normal University | Beijing, China&lt;br&gt;
+• Conducted a literature review about high school student assessment in U.S., U.K., and Japan&lt;br&gt;
+• Presented the findings and recommendations for China through a student panel presentation&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

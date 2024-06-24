@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chinese Students | Yue Di</title>
+    <link>https://selinadi.github.io/tags/chinese-students/</link>
+      <atom:link href="https://selinadi.github.io/tags/chinese-students/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chinese Students</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://selinadi.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Chinese Students</title>
+      <link>https://selinadi.github.io/tags/chinese-students/</link>
+    </image>
+    
+    <item>
+      <title>Intercultural Communication</title>
+      <link>https://selinadi.github.io/project/intercultural/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://selinadi.github.io/project/intercultural/</guid>
+      <description>&lt;h2 id=&#34;undergraduate-thesis&#34;&gt;Undergraduate Thesis&lt;/h2&gt;
+&lt;p&gt;• Beijing Normal University | Beijing, China&lt;br&gt;
+• Conducted interviews with 10 undergraduates and formulated a thesis with a rating of &amp;ldquo;Excellent&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
